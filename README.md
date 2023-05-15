@@ -30,7 +30,3 @@ samples, guidance on mobile development, and a full API reference.
 <p>
 <img src = "https://github.com/yashvasoya09/multi_apps/assets/120082183/0f2d184c-91bc-425f-acae-cf53b66cc2fb" height="30%"width="30%">
 </p>
-
-<p>
-<img src = "" height="50%"width="50%">
-</p>
