@@ -15,10 +15,11 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 <tr>
+  <th>
 <p>
 <img src = "https://github.com/yashvasoya09/multi_apps/assets/120082183/f78e3aa7-1e4a-458e-9bab-34656b28e7c1" height="30%"width="30%">
 </p>
-
+</th>
 
 <p>
 <img src = "https://github.com/yashvasoya09/multi_apps/assets/120082183/d13be8a3-a82a-432c-9027-d023727524a8" height="30%"width="30%">
