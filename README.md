@@ -22,9 +22,10 @@ samples, guidance on mobile development, and a full API reference.
 </th>
 
 <p>
+  <th>
 <img src = "https://github.com/yashvasoya09/multi_apps/assets/120082183/d13be8a3-a82a-432c-9027-d023727524a8" height="30%"width="30%">
 </p>
-  
+  </th>
 </tr>
 
 <p>
