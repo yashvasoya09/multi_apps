@@ -21,7 +21,7 @@ samples, guidance on mobile development, and a full API reference.
 
 <p><img src = "https://github.com/yashvasoya09/multi_apps/assets/120082183/4ad8a7f7-a31a-4fe5-a2d2-c7538b6c7182" height="30%"width="30%"></p>
 
-<p><img src = "https://github.com/yashvasoya09/multi_apps/assets/120082183/9001c4c7-513a-4bfd-845e-409c930074f0" height="30%"width="30%"></p>
+<p><img src = "https://github.com/yashvasoya09/multi_apps/assets/120082183/dd4f2345-34c3-40ec-a6be-aa4e2b55c030" height="30%"width="30%"></p>
 
 <p><img src = "https://github.com/yashvasoya09/multi_apps/assets/120082183/4d950ecb-bd38-4ce9-9414-9c73394ea724"height="30%"width="30%"></p>
 
